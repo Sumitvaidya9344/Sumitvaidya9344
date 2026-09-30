@@ -2,7 +2,7 @@
 👨‍💻 About Me<br><br>Hi, I'm Sumit Vaidya, a Computer Engineering student and passionate Full Stack Developer from India 🇮🇳.<br><br>I enjoy building real-world web applications, solving programming problems, and continuously exploring new technologies. My current focus is on strengthening my Java & Data Structures and Algorithms skills while expanding my knowledge of AI, Machine Learning, Generative AI, and AI Engineering.<br><br>* 💻 Building full-stack applications with React, Node.js, Express & MongoDB<br>* ☕ Strengthening Java & DSA for software engineering placements<br>* 🤖 Exploring AI, Machine Learning, Generative AI, RAG & AI Agents<br>* 🧠 Practicing problem solving through LeetCode<br>* 🚀 Working on projects like Interview.IQ and QuickGPT<br>* 🌱 Always learning, building, and improving<br>* 🤝 Open to collaborating on interesting projects and open-source contributions<br>* 📫 Reach me at sumitvaidya9344@gmail.com<br><br>> Code → Learn → Build → Improve → Repeat 
 
 
-## 🌐 Socials:
+#🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rise_sumit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit vaidya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sumit Vaidya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitvaidya9344@gmail.com) 
 
 # 💻 Tech Stack:
